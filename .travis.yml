@@ -4,3 +4,5 @@ branches:
     - /^deploy-.*$/
     
 language: java
+
+test
