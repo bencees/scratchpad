@@ -1,1 +1,6 @@
+branches:
+  only:
+    - master
+    - /^deploy-.*$/
+    
 language: java
