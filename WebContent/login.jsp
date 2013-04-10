@@ -135,7 +135,7 @@
 					<p style="text-align: left; margin: 0px;"></p>
 					<p style="text-align: left; margin: 0px;">
 						<span style="color: #000000; font-family: BebasRegular;"> <span
-							style="font-size: 26px; line-height: 28px;">USERNAME</span>
+							style="font-size: 26px; line-height: 28px;">USERNAME - DO GET</span>
 						</span>
 					</p>
 					</br>
