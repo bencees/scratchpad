@@ -126,7 +126,7 @@
 					<p style="text-align: left; margin: 0px;">
 						<span style="text-decoration: underline;"> <strong>
 								<span style="color: #000000; font-family: BebasRegular;">
-									<span style="font-size: 28px; line-height: 28px;">LOGIN</span>
+									<span style="font-size: 28px; line-height: 28px;">LOGIN Check</span>
 							</span>
 						</strong>
 						</span>
